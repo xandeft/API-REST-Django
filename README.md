@@ -83,6 +83,5 @@ $ curl --location --request PUT 'localhost:8000/api/contas/update/1000/debit/10'
 ```
 Por fim na rota http://localhost:8000/api/contas/delete/{número-da-conta}, dá a possibilidade de deletar uma conta a partir do seu número.
 ```bash
-$ curl --location --request DELETE 'localhost:8000/api/contas/delete/1000' \
---form 'accountNumber="1000"'
+$ curl --location --request DELETE 'localhost:8000/api/contas/delete/1000'
 ```
