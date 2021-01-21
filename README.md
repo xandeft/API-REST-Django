@@ -19,11 +19,11 @@ Recursos utilizados:
 
 Tabela de conteúdos
 =================
-* [Recursos utilizados](#Recursos)
-* [Tabela de conteúdos](#table-of-contents)
-* [Iniciando a aplicação](#start)
-* [Rotas da aplicação](#rotas)
-* [Funções da aplicação](#funções)
+* [Recursos utilizados](#recursos)
+* [Tabela de conteúdos](#tabela-de-contéudos)
+* [Iniciando a aplicação](#inciando-a-aplicação)
+* [Rotas da aplicação](#rotas-da-aplicação)
+* [Funções da aplicação](#funções-da-aplicação)
 
 Iniciando a aplicação
 =================
